@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://nitya.github.io/fine-tuning-fundamentals/</loc>
+         <lastmod>2024-10-24</lastmod>
+    </url>
+    <url>
+         <loc>https://nitya.github.io/fine-tuning-fundamentals/1-Open-AI/</loc>
+         <lastmod>2024-10-24</lastmod>
+    </url>
+    <url>
+         <loc>https://nitya.github.io/fine-tuning-fundamentals/2-Azure/</loc>
+         <lastmod>2024-10-24</lastmod>
+    </url>
+    <url>
+         <loc>https://nitya.github.io/fine-tuning-fundamentals/3-Hugging-Face/</loc>
+         <lastmod>2024-10-24</lastmod>
+    </url>
+    <url>
+         <loc>https://nitya.github.io/fine-tuning-fundamentals/4-Developer-Tools/</loc>
+         <lastmod>2024-10-24</lastmod>
+    </url>
+</urlset>
