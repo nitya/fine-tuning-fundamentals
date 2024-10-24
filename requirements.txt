@@ -1,0 +1,14 @@
+# For documentation
+mkdocs-material
+
+# For inference
+azure-ai-inference
+
+# For async client
+aiohttp
+
+# For Entra ID
+azure.identity
+
+# For Prompty
+prompty
